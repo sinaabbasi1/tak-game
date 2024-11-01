@@ -2,6 +2,16 @@
 
 Tak is a two-player game played on a 4x4 board, where each player has 20 pieces. This repository contains a simplified 4x4 version of the two-player game Tak, implemented in Prolog.
 
+## Getting started
+
+This game runs smoothly with SWI-Prolog 8.0.3.
+
+1. **Clone the repository:** <br />
+```
+git clone https://github.com/sinaabbasi1/tak-game.git
+```
+2. **Run the project:** The source file is located in `src/` directory.
+
 ## How to Play
 
 At the start, the board is empty. During their turn, each player can perform one of the following moves:
