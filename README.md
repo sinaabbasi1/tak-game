@@ -4,7 +4,7 @@ Tak is a two-player game played on a 4x4 board, where each player has 20 pieces.
 
 ## Getting Started
 
-This game runs smoothly with SWI-Prolog 8.0.3.
+This game runs smoothly using SWI-Prolog 8.0.3.
 
 1. **Clone the repository:** <br />
 ```
